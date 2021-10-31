@@ -1,0 +1,21 @@
+{
+    "name": "fidel",
+    "displayName": "Fidel",
+    "description": "Just the old JSFiddle dark color scheme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fidel",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fidel-color-theme.json"
+            }
+        ]
+    }
+}
