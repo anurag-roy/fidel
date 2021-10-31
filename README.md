@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/anurag-roy/fidel/main/icon.png" width="140" />
+<img src="https://raw.githubusercontent.com/anurag-roy/fidel/main/assets/icon.png" width="140" />
 
 # Fidel Theme
 
-A dark theme for VS Code that was ~~copied~~ inspired by the theme used on [JSFiddle](https://jsfiddle.net/). The token colorization is slightly different and uses less number of colors.
+A dark theme for VS Code that was ~~copied~~ inspired by the theme used on [JSFiddle](https://jsfiddle.net/).
 
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/anuragroy.fidel)
 
