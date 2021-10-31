@@ -1,8 +1,8 @@
 {
     "name": "fidel",
     "displayName": "Fidel",
-    "description": "Just the old JSFiddle dark color scheme!",
-    "version": "0.0.1",
+    "description": "The JSFiddle color scheme!",
+    "version": "1.0.0",
     "publisher": "anuragroy",
     "repository": {
         "type": "git",
@@ -21,6 +21,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "assets/icon.png",
     "contributes": {
         "themes": [
             {
@@ -29,6 +30,10 @@
                 "path": "./themes/Fidel-color-theme.json"
             }
         ]
+    },
+    "galleryBanner": {
+        "color": "#1e242c",
+        "theme": "dark"
     },
     "license": "MIT"
 }
