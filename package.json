@@ -3,6 +3,18 @@
     "displayName": "Fidel",
     "description": "Just the old JSFiddle dark color scheme!",
     "version": "0.0.1",
+    "publisher": "anuragroy",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/anurag-roy/fidel"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "jsfiddle",
+        "fiddle",
+        "fidel"
+    ],
     "engines": {
         "vscode": "^1.61.0"
     },
@@ -17,5 +29,6 @@
                 "path": "./themes/Fidel-color-theme.json"
             }
         ]
-    }
+    },
+    "license": "MIT"
 }
