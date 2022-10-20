@@ -1,39 +1,40 @@
 {
-    "name": "fidel",
-    "displayName": "Fidel",
-    "description": "The JSFiddle color scheme!",
-    "version": "2.0.0",
-    "publisher": "anuragroy",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/anurag-roy/fidel"
-    },
-    "keywords": [
-        "theme",
-        "dark theme",
-        "jsfiddle",
-        "fiddle",
-        "fidel"
-    ],
-    "engines": {
-        "vscode": "^1.61.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "icon": "assets/icon.png",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Fidel",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Fidel-color-theme.json"
-            }
-        ]
-    },
-    "galleryBanner": {
-        "color": "#1e242c",
-        "theme": "dark"
-    },
-    "license": "MIT"
+  "name": "fidel",
+  "displayName": "Fidel",
+  "description": "A beautiful dark theme inspired by the JSFiddle color scheme!",
+  "version": "2.0.1",
+  "publisher": "anuragroy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anurag-roy/fidel"
+  },
+  "keywords": [
+    "theme",
+    "contrast",
+    "dark theme",
+    "jsfiddle",
+    "fiddle",
+    "fidel"
+  ],
+  "engines": {
+    "vscode": "^1.61.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "assets/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fidel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fidel-color-theme.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#1e242c",
+    "theme": "dark"
+  },
+  "license": "MIT"
 }
